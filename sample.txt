@@ -1,2 +1,3 @@
 This is a sample text
 This is another line of txt
+This is third line of text
